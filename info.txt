@@ -1,0 +1,38 @@
+check if any word in a tweet is a location
+
+/// check if word is a proper noun ---> done
+
+/// check if there is a link in the tweet ---> done
+
+/// look for the following words [ at, in, London offices on, from, to, toward, towards] ---> done
+
+/// hashtag ---> done
+
+words describing timw ----> [afternoon
+autumn
+century
+dawn
+day
+decade
+dusk
+evening
+fall
+hour
+instant
+midnight
+minute
+moment
+month
+morning
+night
+noon
+pause
+phase
+second
+spring
+summer
+week
+weekend
+winter
+year
+]
